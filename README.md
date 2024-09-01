@@ -1,5 +1,5 @@
 # Computer Science Principles
-This is just a required school class that I absolutely have to take before going to the next level. I am not doing this by my own free will.
+This repository contains files resulting from my participation in a high-school freshman level computer science course.
 
 This is all in the [Snap! Programming Language](https://snap.berkeley.edu/)
 
